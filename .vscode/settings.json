@@ -1,0 +1,12 @@
+{
+    "cSpell.language": "ru, us",
+    "cSpell.ignorePaths": [
+        "package-lock.json",
+        "node_modules",
+        "vscode-extension",
+        ".git/objects",
+        ".vscode",
+        ".vscode-insiders"
+    ]
+    
+}
