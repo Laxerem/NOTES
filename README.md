@@ -404,8 +404,4 @@ int main(int argc, char *argv[]) {
 
 **IP** - IP вашего сервера
 
-<<<<<<< Updated upstream
-Клиент будет отправлять данные серверу
-=======
-**MESSAGE** - ваше сообщение (без пробелов).
->>>>>>> Stashed changes
+**MESSAGE** - ваше сообщение
